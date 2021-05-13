@@ -1,0 +1,27 @@
+.flex-container{
+	height: 540px;
+	flex-direction: row;
+	flex-wrap: wrap;
+	align-items: flex-start;
+}
+
+.start{
+	align-content: flex-start;
+}
+
+.end{
+	align-content: flex-end;
+}
+
+.center{
+	align-content: center;
+}
+
+.space-around{
+	align-content: space-around;
+}
+
+.space-between{
+	align-content: space-between;
+
+}
